@@ -1,3 +1,6 @@
 [submodule "addons/Wheel_of_Fortune"]
 	path = addons/Wheel_of_Fortune
 	url = https://github.com/frikadel-ka/wheel-of-fortune-addon.git
+[submodule "addons/Mass_Drop"]
+	path = addons/Mass_Drop
+	url = https://github.com/frikadel-ka/mass-drop-addon.git
